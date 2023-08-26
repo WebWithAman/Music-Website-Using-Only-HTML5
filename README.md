@@ -1,2 +1,2 @@
-# Music-Website-Using-Only-HTML5
-This is a Music Website Created Using Only HTML5...
+# music-website-using-only-html
+This is a simple Music website created using only HTML.
