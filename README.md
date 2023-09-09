@@ -16,12 +16,9 @@ Then, you need to clone this repo to your local machine using the following comm
 git clone https://github.com/your-username/static-music-website.git
 ```
 
-## Usage
+## Demo
 
-To use this project, you need to have a web browser that supports HTML5. You can use any web browser of your choice, such as Chrome, Firefox, Safari, etc.
-
-Then, you need to open the index.html file in your web browser. You can do this by double-clicking the file or by dragging and dropping it to your web browser.
-
+You can see a live demo of this static blog [https://musicwebsitebyaman.netlify.app].
 
 ## License
 
