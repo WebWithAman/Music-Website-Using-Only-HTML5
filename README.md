@@ -13,7 +13,7 @@ To install this project, you need to have Git installed on your computer. You ca
 Then, you need to clone this repo to your local machine using the following command:
 
 ```bash
-git clone https://github.com/your-username/static-music-website.git
+git clone https://github.com/webwithaman/music-website-using-only-html.git
 ```
 
 ## Demo
