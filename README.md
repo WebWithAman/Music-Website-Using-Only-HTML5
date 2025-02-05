@@ -1,6 +1,6 @@
 ## Music Website Using Only HTML
 
-This is a static music website created using only HTML.It has a simple and minimalist design with no CSS.
+This Static Music Website using fundamental HTML techniques, including tables, background colors, and custom font styling (via <font> tag). It has a simple and minimalist design with no CSS.
 
 ### Live Demo
 
